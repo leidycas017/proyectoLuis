@@ -164,7 +164,7 @@ const Header = () => {
                   className="hidden px-7 py-3 text-base font-medium text-dark hover:opacity-70 dark:text-white md:block"
                 ></Link>
                 <Link
-                  href="/signup"
+                  href="https://api.whatsapp.com/send?phone=573014081214"
                   className="ease-in-up font-lg  hidden rounded-sm bg-[#EA602C] px-8 py-3 text-lg font-bold text-white shadow-btn transition duration-300 hover:bg-opacity-90 hover:shadow-btn-hover md:block md:px-9 lg:px-6 xl:px-9"
                 >
                   ¡Escríbenos ahora!

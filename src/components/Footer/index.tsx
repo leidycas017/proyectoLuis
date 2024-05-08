@@ -31,7 +31,6 @@ const Footer = () => {
                 </p>
                 <div className="flex items-center">
                   <a
-                    href="#"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -51,7 +50,6 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="#"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -73,7 +71,6 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="#"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -89,7 +86,6 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="#"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -108,32 +104,32 @@ const Footer = () => {
               </div>
             </div>
 
-            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
-              <div className="mb-12 lg:mb-16">
-                <ul>
-                  <li className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary">
-                    truchasmazarello@gmail.com
-                  </li>
-                  <li className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary">
-                    truchasmazarello@gmail.com
-                  </li>
-                </ul>
-              </div>
+            <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
+              <Link
+                href="https://api.whatsapp.com/send?phone=573147169947"
+                className="rounded-sm bg-[#9d0e0e] px-8 py-4 text-lg font-bold text-white duration-300 ease-in-out hover:bg-[#189D0E]"
+              >
+                💬 314 716 99 47
+              </Link>
+              <Link
+                href="https://api.whatsapp.com/send?phone=573014081214"
+                className="inline-block rounded-sm bg-[#9d0e0e] px-8 py-4 text-lg font-bold text-white duration-300 ease-in-out hover:bg-[#189D0E] dark:bg-[#9d0e0e] dark:text-white dark:hover:bg-[#189D0E]"
+              >
+                💬 301 408 12 14
+              </Link>
             </div>
           </div>
 
-          <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
+          <div className="mt-4 h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
               {" "}
               <a
-                href="http://uideck.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary"
               ></a>{" "}
               <a
-                href="https://nextjstemplates.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary"

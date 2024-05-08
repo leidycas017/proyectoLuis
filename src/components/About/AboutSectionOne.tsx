@@ -47,7 +47,7 @@ const AboutSectionOne = () => {
                   src="/images/about/about-image-dark.svg"
                   alt="about-image"
                   fill
-                  className="mx-auto hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"
+                  className="mx-auto hidden max-w-full drop-shadow-three hover:scale-105 dark:block dark:drop-shadow-none lg:mr-0"
                 />
               </div>
             </div>
