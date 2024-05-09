@@ -12,7 +12,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Truchas Mazarello | truchas mazzarello",
+  title: "Truchas Mazzarello | truchas mazzarello",
   description: "truchas el retiro",
   // other metadata
 };
