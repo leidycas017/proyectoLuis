@@ -4,8 +4,8 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contacto | truchas mazzarello",
-  description: "truchas el retiro",
+  title: "Contacto | Truchas mazzarello",
+  description: "Truchas el retiro - Rionegro - Medellin - truchera",
   // other metadata
 };
 

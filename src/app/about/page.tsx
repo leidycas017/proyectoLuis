@@ -5,8 +5,8 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Nuestra empresa | truchas mazzarello",
-  description: "truchas el retiro",
+  title: "Nuestra empresa | Truchas mazzarello",
+  description: "Truchas el retiro - Rionegro - Medellin - truchera",
   // other metadata
 };
 

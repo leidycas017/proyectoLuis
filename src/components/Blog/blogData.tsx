@@ -8,12 +8,12 @@ const blogData: Blog[] = [
       "Limpiar bajo agua fría corriente para eliminar cualquier suciedad, escamas sueltas o residuos, desviscerar e inspeccionar.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "",
     },
-    tags: ["creative"],
-    publishDate: "2025",
+    tags: [""],
+    publishDate: "",
   },
   {
     id: 2,
@@ -22,12 +22,12 @@ const blogData: Blog[] = [
       "Clasificar por tamaño y peso para facilitar el empaquetado, pesaje preciso de acuerdo con los requisitos del empaque.",
     image: "/images/blog/blog-02.jpg",
     author: {
-      name: "Musharof Chy",
+      name: "",
       image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      designation: "",
     },
-    tags: ["computer"],
-    publishDate: "2025",
+    tags: [""],
+    publishDate: "",
   },
   {
     id: 3,
@@ -36,12 +36,12 @@ const blogData: Blog[] = [
       "Empaque herméticamente cerrado, cajas en condiciones adecuadas de temperatura y humedad para preservar su frescura.",
     image: "/images/blog/blog-03.jpg",
     author: {
-      name: "Lethium Deo",
+      name: "",
       image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
+      designation: "",
     },
-    tags: ["design"],
-    publishDate: "2025",
+    tags: [""],
+    publishDate: "",
   },
 ];
 export default blogData;
