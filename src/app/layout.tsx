@@ -20,7 +20,12 @@ export default function RootLayout({
         <head /> will contain the components returned by the nearest parent
         head.js. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
-      <head />
+      <head>
+        <meta
+          name="google-site-verification"
+          content="VCZz5LGrerta_cyirceKrMrZvKQDXdWWDit6g01tYHU"
+        />
+      </head>
 
       <body className={`bg-[#FCFCFC] dark:bg-black ${inter.className}`}>
         <Providers>

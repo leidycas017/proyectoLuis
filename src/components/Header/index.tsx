@@ -176,6 +176,10 @@ const Header = () => {
             </div>
           </div>
         </div>
+        <meta
+          name="google-site-verification"
+          content="VCZz5LGrerta_cyirceKrMrZvKQDXdWWDit6g01tYHU"
+        />
       </header>
     </>
   );
