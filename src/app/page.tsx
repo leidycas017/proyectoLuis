@@ -12,7 +12,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Truchas Mazzarello | Truchas mazzarello",
+  title: "Truchas Mazzarello | Altos de Mazzarello",
   description: "Truchas el retiro - Rionegro - Medellin - truchera",
   // other metadata
 };
