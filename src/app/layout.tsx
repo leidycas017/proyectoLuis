@@ -25,6 +25,11 @@ export default function RootLayout({
           name="google-site-verification"
           content="VCZz5LGrerta_cyirceKrMrZvKQDXdWWDit6g01tYHU"
         />
+        <link
+          rel="icon"
+          href="https://www.truchasmazzarello.com/favicon.ico"
+          type="image/x-icon"
+        />
       </head>
 
       <body className={`bg-[#FCFCFC] dark:bg-black ${inter.className}`}>
