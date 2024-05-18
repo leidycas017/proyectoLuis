@@ -13,8 +13,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Truchas Mazzarello | Altos de Mazzarello",
-  description: "Truchas el retiro - Rionegro - Medellin - truchera",
-  // other metadata
+  description:
+    "Truchas el Retiro - Rionegro - Medellin - Truchera - Al por mayor y al detal",
 };
 
 export default function Home() {

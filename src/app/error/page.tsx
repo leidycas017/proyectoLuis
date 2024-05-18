@@ -4,8 +4,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Error | truchas mazzarello",
-  description: "Truchas el Retiro - Rionegro - Medellin - Truchera",
-  // other metadata
+  description:
+    "Truchas el Retiro - Rionegro - Medellin - Truchera - Al por mayor y al detal",
 };
 
 const ErrorPage = () => {

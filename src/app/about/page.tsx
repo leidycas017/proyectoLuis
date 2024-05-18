@@ -6,8 +6,8 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Nuestra empresa | Truchas Mazzarello",
-  description: "Truchas el Retiro - Rionegro - Medellin - Truchera",
-  // other metadata
+  description:
+    "Truchas el Retiro - Rionegro - Medellin - Truchera - Al por mayor y al detal",
 };
 
 const AboutPage = () => {
