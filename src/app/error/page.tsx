@@ -4,7 +4,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Error | truchas mazzarello",
-  description: "Truchas el retiro - Rionegro - Medellin - truchera",
+  description: "Truchas el Retiro - Rionegro - Medellin - Truchera",
   // other metadata
 };
 
