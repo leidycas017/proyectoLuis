@@ -1,5 +1,8 @@
 "use client";
 
+import "@fortawesome/fontawesome-svg-core/styles.css";
+import {config} from "@fortawesome/fontawesome-svg-core";
+config.autoAddCss = false;
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import ScrollToTop from "@/components/ScrollToTop";
